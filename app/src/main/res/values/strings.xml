@@ -1,6 +1,30 @@
 <resources>
     <string name="app_name">MAD</string>
-    <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="app_long_name">Mobile App Development</string>
+
+    <string name="title_schedule">Schedule</string>
+    <string name="title_madcon">MADcon</string>
+    <string name="title_about">About</string>
+
+    <string name="image_event_desc">Event image</string>
+    <string name="icon_event_desc">Event icon</string>
+
+    <string name="who_is_mad">Who are we?</string>
+    <string name="mad_info">
+        Mobile App Development is a student organization at the University
+        of Texas. We are focused on building the UT community by creating
+        a learning environment for all students through our workshops, hack
+        nights, conferences, and other awesome events. We want to build the
+        next generation of successful developers, designers, and entrepreneurs.
+    </string>
+    <string name="mad_link"><u>txcsmad.com</u></string>
+
+    <string name="madcon_title">What is MADcon?</string>
+    <string name="madcon_info">
+        MAD Conference is an annual student-run developer conference that aims
+        to provide an environment to learn, develop, and grow. The schedule is
+        a mixture of workshops, tech talks, and coding challenges led by industry
+        engineers.
+    </string>
+    <string name="madcon_link"><u>madcon.co</u></string>
 </resources>
