@@ -9,7 +9,7 @@ import com.txcsmad.mad.R
 import com.txcsmad.mad.models.Event
 import kotlinx.android.synthetic.main.item_event.view.*
 
-class EventAdapter(val events: List<Event>) : RecyclerView.Adapter<EventAdapter.EventHolder>() {
+class EventAdapter(private val events: List<Event>) : RecyclerView.Adapter<EventAdapter.EventHolder>() {
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): EventHolder {
         val layoutInflater = LayoutInflater.from(parent.context)
